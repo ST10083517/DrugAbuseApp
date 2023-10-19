@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136104780487",
+    "project_id": "drugabuseapp-ede82",
+    "storage_bucket": "drugabuseapp-ede82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136104780487:android:2fb6906b2cbdbdf3b8d4e2",
+        "android_client_info": {
+          "package_name": "com.example.drugabuseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWhT5X2xsUgQrPt0eGW_qDlsxKOWxDn0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
